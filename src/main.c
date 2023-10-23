@@ -702,7 +702,7 @@ void saveArchive(){
     saveArchiveToTxt(archive.tol1_archive, ARRAY_SIZE, "../report/tol1.txt");
     saveArchiveToTxt(archive.tol2_archive, ARRAY_SIZE, "../report/tol2.txt");
     saveArchiveToTxt(archive.D_task_estimate_norm_archive, ARRAY_SIZE, "../report/D_task_estimate_norm.txt");
-    saveArchiveToTxt(archive.D_task_norm_archive, ARRAY_SIZE, "../report/D_norm.txt");
+    saveArchiveToTxt(archive.D_task_norm_archive, ARRAY_SIZE, "../report/D_task_norm.txt");
     saveArchiveToTxt(archive.G_task_estimate_norm_archive, ARRAY_SIZE, "../report/G_task_estimate_norm.txt");
     saveArchiveToTxt(archive.G_task_norm_archive, ARRAY_SIZE, "../report/G_task_norm.txt");
     saveArchiveToTxt(archive.C_task_estimate_norm_archive, ARRAY_SIZE, "../report/C_task_estimate_norm.txt");
